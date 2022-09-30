@@ -68,17 +68,27 @@ I edited the starter code so that the 4 fintech professionals use the account ad
 
 ![Ganache Initial Balances](Images/Ganache_initial_balances.png)
 
+---
+
 ### Streamlit "Send Transaction" Screenshots
 
 I ended up hiring all 4 candidates!  40 hours for Lane, 30 hours for Ash, 20 hours for Jo and 10 hours for Kendall.
 
 ![Lane](Images/streamlit_lane.png) 
 
+---
+
 ![Ash](Images/streamlit_ash.png)
+
+---
 
 ![Jo](Images/streamlit_jo.png)
 
+---
+
 ![Kendall](Images/streamlit_kendall.png)
+
+---
 
 ### Ganache - Final Account Balances, Blocks Mined and Transaction History
 
@@ -86,7 +96,11 @@ Lane is Account Index 1, as well as the first Block and first Transaction.  Like
 
 ![Final Balances](Images/Ganache_final_balances.png)
 
+---
+
 ![Blocks Mined](Images/Ganache_blocks_mined.png)
+
+---
 
 ![Transactions](Images/Ganache_transactions.png)
 
